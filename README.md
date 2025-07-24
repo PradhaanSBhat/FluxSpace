@@ -36,7 +36,7 @@
 
 ![Real Human Edits](<assets/FluxSpace Real Human Edits.png>)
 
-### Edits using Stable-Diffusion 3.5-Large
+### Stable-Diffusion 3.5-Large Human Edits
 
 ![SD3.5L Human Edits](<assets/FluxSpace SD3.5-L - Human Edits.png>)
 
@@ -257,6 +257,10 @@ Note : While the demo can perform real image editing for FLUX.1-dev, the image i
 - Fine Edit: `bash scripts/fine.sh`
 - Both: `bash scripts/both.sh`
 - Grids: `bash scripts/grid.sh`
+
+# Acknowledgements
+
+I would like to thank the contributors of [diffusers](https://github.com/huggingface/diffusers) repository for their open contributions.
 
 # Citation
 
