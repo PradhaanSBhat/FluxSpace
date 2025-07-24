@@ -1,0 +1,17 @@
+[project]
+name = "fluxspace"
+version = "0.1.0"
+description = "Unofficial Implementation of FluxSpace - Disentangled Semantic Editing in Rectified Flow Transformers"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "accelerate>=1.9.0",
+    "diffusers>=0.34.0",
+    "gradio>=5.38.0",
+    "matplotlib>=3.10.3",
+    "protobuf>=6.31.1",
+    "sentencepiece>=0.2.0",
+    "torch>=2.7.1",
+    "torchvision>=0.22.1",
+    "transformers>=4.53.2",
+]
