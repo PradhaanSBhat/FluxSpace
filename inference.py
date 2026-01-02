@@ -40,7 +40,7 @@ def parse_args():
         "--pipeline_path",
         type=str,
         default="pipelines/pipeline_fluxspace_flux.py",
-        help="Custom pipeline path for tokenverse",
+        help="Custom pipeline path for fluxspace",
     )
     parser.add_argument(
         "--token",

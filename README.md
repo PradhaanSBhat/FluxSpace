@@ -3,7 +3,7 @@
 <a href="https://fluxspace.github.io/"><img src="https://img.shields.io/static/v1?label=Project&message=Website&color=blue"></a>
 <a href="https://arxiv.org/abs/2412.09611"><img src="https://img.shields.io/badge/arXiv-2412.09611-b31b1b.svg"></a>
 
-## **NOTE :** This is an unofficial implementation of the paper. Please check out their project page! The link to the official implementation will be available here when the authors upload it!
+## **NOTE :** This is an unofficial implementation of the paper. Please check out their official repository [here](https://github.com/gemlab-vt/FluxSpace)!
 
 > <a href="https://fluxspace.github.io/">**FluxSpace: Disentangled Semantic Editing in Rectified Flow Transformers**</a>
 >

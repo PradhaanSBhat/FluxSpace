@@ -395,7 +395,7 @@ class StableDiffusion3Pipeline(
             prompt (`str` or `List[str]`, *optional*):
                 prompt to guide generation
             edit_token (`str` or `List[str]`, *optional*):
-                edit_token to apply tokenverse modulation
+                edit_token 
         """
         if edit_tokens is None:
             token_pos = None
